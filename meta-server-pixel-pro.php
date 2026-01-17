@@ -17,3 +17,4 @@ require MSPP_PATH . 'includes/admin-ui.php';
 require MSPP_PATH . 'includes/browser-pixel.php';
 require MSPP_PATH . 'includes/server-capi.php';
 require MSPP_PATH . 'includes/woocommerce-events.php';
+
